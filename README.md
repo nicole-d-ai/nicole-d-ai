@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nicole-d-ai/nicole-d-ai/refs/heads/main/CREAUN%7E1.JPE" alt="Banner Digital Web Agency" width="800"/> 
+  <img src="https://github.com/nicole-d-ai/nicole-d-ai/blob/main/IMG_7349-removebg-preview.png" alt="Banner Digital Web Agency" width="800"/> 
 </p>
+<h2 align="center">✨ ¡Bienvenid@ a mi perfil de GitHub! ✨</h2>
 
 # 👋 ¡Hola! Soy **Nicole Ferreyra**  
 
