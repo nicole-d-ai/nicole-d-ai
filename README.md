@@ -1,16 +1,42 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nicole-d-ai/nicole-d-ai/refs/heads/main/CREAUN%7E1.JPE" alt="Banner Digital Web Agency" width="800"/> 
+</p>
 
-<!--
-**nicole-d-ai/nicole-d-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 ¡Hola! Soy **Nicole Ferreyra**  
 
-Here are some ideas to get you started:
+💻 **Profesional independiente** en IA & Ciencia de Datos  
+🚀 Fundadora de [Digital Web Agency](https://digitalwebagencyy.com/)  
+📊 Apasionada por transformar datos en decisiones y soluciones reales.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías & Habilidades
+
+- 🤖 **IA & Machine Learning**: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn  
+- 📊 **Ciencia de Datos**: Análisis exploratorio, regresión, clasificación, clustering  
+- 🌐 **Desarrollo Web**: HTML, CSS, JavaScript, React  
+- 📈 **Herramientas**: Excel Avanzado, Power BI, Git & GitHub  
+
+---
+
+## 📂 Proyectos Destacados
+
+- 🔐 [Ciberseguridad con Machine Learning](https://github.com/nicole-d-ai/CyberSecurity-ML)   
+- 💡 [Digital Web Agency](https://digitalwebagencyy.com/)  
+
+---
+
+## 📊 Mis estadísticas en GitHub
+
+![Nicole's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicole-d-ai&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicole-d-ai&layout=compact&theme=radical)
+
+---
+
+## 🌍 Conectemos
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/nicole-ferreyra-663279219/)
+- 🌐 [Sitio web](https://digitalwebagencyy.com/)  
+- 📧 **Email:** nicoledesire99@gmail.com  
+
